@@ -1,0 +1,72 @@
+{
+ "companies": [
+   {
+     "name": "WPPOOL",
+     "monthlyIndex": {
+       "January": "+32%",
+       "February": "+28%",
+       "March": "+35%",
+       "April": "+40%",
+       "May": "+42%",
+       "June": "+30%",
+       "July": "+50%",
+       "August": "+45%",
+       "September": "+37%",
+       "October": "+33%",
+       "November": "+29%",
+       "December": "+31%"
+     }
+   },
+   {
+     "name": "Google",
+     "monthlyIndex": {
+       "January": "+78%",
+       "February": "+75%",
+       "March": "+80%",
+       "April": "+85%",
+       "May": "+88%",
+       "June": "+77%",
+       "July": "+90%",
+       "August": "+85%",
+       "September": "+83%",
+       "October": "+78%",
+       "November": "+80%",
+       "December": "+82%"
+     }
+   },
+   {
+     "name": "Microsoft",
+     "monthlyIndex": {
+       "January": "+45%",
+       "February": "+48%",
+       "March": "+50%",
+       "April": "+55%",
+       "May": "+60%",
+       "June": "+52%",
+       "July": "+65%",
+       "August": "+62%",
+       "September": "+58%",
+       "October": "+55%",
+       "November": "+53%",
+       "December": "+57%"
+     }
+   },
+   {
+     "name": "Twitter",
+     "monthlyIndex": {
+       "January": "+32%",
+       "February": "+35%",
+       "March": "+30%",
+       "April": "+40%",
+       "May": "+45%",
+       "June": "+38%",
+       "July": "+50%",
+       "August": "+42%",
+       "September": "+39%",
+       "October": "+37%",
+       "November": "+34%",
+       "December": "+36%"
+     }
+   }
+ ]
+}
